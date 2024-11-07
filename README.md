@@ -1,0 +1,2 @@
+# cjq
+Jira query tool
